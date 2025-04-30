@@ -1,0 +1,26 @@
+{
+  "name": "school-connect",
+  "version": "1.0.0",
+  "description": "Project made by students of Etec Bento Quirino",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["Chat",
+               "Accessibility",
+               "Messages",
+               "Node Js"     
+],
+  "author": "Wiliam Kenzo Aoki Da Silva, Júlia vieira locatelli de sousa and Murilo Duarte Carpinedo",
+  "license": "UNLICENSED",
+  "type": "commonjs",
+
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.6"
+  }
+}
+
+
